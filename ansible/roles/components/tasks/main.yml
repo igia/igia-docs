@@ -1,0 +1,279 @@
+---
+- name: run the playbook tasks on the localhost
+
+  hosts: 127.0.0.1
+  connection: local
+  become: no
+
+  vars:
+    # Env lookup to support internal git repos
+    git: {
+      base_api: "{{ lookup('env', 'IGIA_GIT_API') | default('https://api.github.com', true) }}" ,
+      group: "{{ lookup('env', 'IGIA_GIT_GROUP') | default('igia', true) }}" ,
+      branch: "{{ lookup('env', 'IGIA_GIT_MAINLINE_BRANCH') | default('master', true) }}" ,
+    }
+    default_mode: "0777"
+    components: {
+      igia-apigateway: "Microservice Gateway",
+      igia-keycloak: "README",
+      igia-orchestrator: "Orchestrator",
+      cha2ds2-vasc-api: "Sample App API",
+      cha2ds2-vasc-application: "Sample App UI",
+      igia-camunda: "Camunda Workflow Engine",
+      caremanagement: "Care Management",
+      integration-app: "Data Integration App",
+      integration-configuration: "Data Integration Config",
+      integration-worker: "Data Integration Worker",
+      igia-commons: "igia Common Libs",
+      igia-docs: "Docs Website",
+      igia-datamask: "Data Masking",
+      igia-fhir-api-example: "FHIR API Example",
+      igia-fhir-autoconfigure: "README",
+      igia-smart-launch-app: "README"
+    }
+
+  tasks:
+
+    - name: SAVE PROJECT BASE PATH VARIABLE FOR FUTURE USE
+      set_fact:
+        project_path: "{{ playbook_dir | dirname | dirname | dirname | dirname }}"
+        ansible_path: "{{ playbook_dir | dirname | dirname | dirname | dirname }}/ansible"
+        docs_path:    "{{ playbook_dir | dirname | dirname | dirname | dirname }}/docs"
+        website_path: "{{ playbook_dir | dirname | dirname | dirname | dirname }}/website"
+    - debug:
+        msg: "Project Path {{ project_path }}"
+    - debug:
+        msg: "Ansbile Path {{ ansible_path }}"
+    - debug:
+        msg: "Docs Path {{ docs_path }}"
+    - debug:
+        msg: "Website Path {{ website_path }}"
+
+    - name: GET LIST OF PROJECTS IN igia-PLATFORM GROUP
+      uri:
+        url: "{{ git.base_api }}/groups/{{ git.group }}/projects?simple=true&per_page=100"
+        headers:
+          Private-Token: "{{ git_token }}"
+        return_content: yes
+      register: project_list_response
+
+    - name: SAVE PROJECT LIST
+      set_fact:
+        project_list: "{{ project_list_response.json }}"
+
+    - debug:
+        msg: "project_list: {{ project_list }}"
+
+    - debug:
+        msg: "{{ item.name }} - {{ item.ssh_url_to_repo }}"
+      loop: "{{ project_list | flatten(levels=1) }}"
+
+    - name: REMOVE PREVIOUS CONTENT README.MD
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~README.md"
+
+    - name: REMOVE PREVIOUS CONTENT ACKNOWLEDGEMENTS.MD
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~ACKNOWLEDGEMENTS.md"
+
+    - name: REMOVE PREVIOUS CONTENT INTRODUCTION.MD
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~introduction.md"
+    - name: REMOVE PREVIOUS CONTENT USAGE.MD
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~usage.md"
+    - name: REMOVE PREVIOUS CONTENT APPENDIX.MD
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~appendix.md"
+    - name: REMOVE PREVIOUS CONTENT DOCS.JSON
+      file:
+        path: "{{ item }}"
+        state: absent
+      with_fileglob:
+        - "{{docs_path}}/*~docs.json"
+
+    - name: DOWNLOAD README.MD FILES
+      get_url:
+        headers: { Private-Token: "{{git_token}}" }
+        url: "{{git.base_api}}/projects/{{item.id}}/repository/files/README.md/raw?ref={{git.branch}}"
+        dest: "{{docs_path}}/{{item.name}}~README.md"
+        mode: "{{default_mode}}"
+      loop: "{{project_list|list}}"
+      ignore_errors: no
+
+    - name: DOWNLOAD ACKNOWLEDGEMENTS.MD FILES
+      get_url:
+        headers:
+          Private-Token: "{{ git_token }}"
+        url: "{{git.base_api}}/projects/{{item.id}}/repository/files/ACKNOWLEDGEMENTS.md/raw?ref={{git.branch}}"
+        dest: "{{docs_path}}/{{item.name}}~ACKNOWLEDGEMENTS.md"
+        mode: "{{default_mode}}"
+      loop: "{{project_list|list}}"
+      ignore_errors: yes
+
+    - name: DOWNLOAD INTRODUCTION.MD FILES
+      get_url:
+        headers: { Private-Token: "{{git_token}}" }
+        url: "{{git.base_api}}/projects/{{item.id}}/repository/files/docs%2Fintroduction.md/raw?ref={{git.branch}}"
+        dest: "{{docs_path}}/{{item.name}}~introduction.md"
+        mode: "{{default_mode}}"
+      loop: "{{project_list}}"
+      ignore_errors: yes
+
+    - name: DOWNLOAD USAGE.MD FILES
+      get_url:
+        headers: { Private-Token: "{{git_token}}" }
+        url: "{{git.base_api}}/projects/{{item.id}}/repository/files/docs%2Fusage.md/raw?ref={{git.branch}}"
+        dest: "{{docs_path}}/{{item.name}}~usage.md"
+        mode: "{{default_mode}}"
+      loop: "{{project_list}}"
+      ignore_errors: yes
+
+    - name: DOWNLOAD APPENDIX.MD FILES
+      get_url:
+        headers: { Private-Token: "{{git_token}}" }
+        url: "{{git.base_api}}/projects/{{item.id}}/repository/files/docs%2Fappendix.md/raw?ref={{git.branch}}"
+        dest: "{{docs_path}}/{{item.name}}~appendix.md"
+        mode: "{{default_mode}}"
+      loop: "{{project_list}}"
+      ignore_errors: yes
+
+    - name: GET DOCS LIST TO LIMIT LINKS
+      find:
+        paths: "{{docs_path}}"
+        patterns: [ "*~README.md", "*~ACKNOWLEDGEMENTS.md", "*~appendix.md", "*~usage.md", "*~introduction.md" ]
+        recurse: yes
+        file_type: file
+      register: docs_list_result
+    - name: save into docs list var
+      set_fact:
+        docs_list: "{{ docs_list_result.files | map(attribute='path') | list }}"
+    - debug:
+        msg: "Docs List {{ docs_list }}"
+
+    - name: ADD COMPONENT LINKS TO EACH README.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~README.md"
+        marker: |+
+          <!-- {mark} adding docusaurus links -->
+        block: |
+          {{ item.description }}<br>
+
+          {% if docs_path+'/'+item.name+'~introduction.md' in docs_list %}
+          <button onclick="window.location.href='/docs/{{item.name}}~introduction'">Introduction</button>&nbsp;
+          {% endif %}
+          {% if docs_path+'/'+item.name+'~usage.md' in docs_list %}
+          <button onclick="window.location.href='/docs/{{item.name}}~usage'">Usage</button>&nbsp;
+          {% endif %}
+          {% if docs_path+'/'+item.name+'~appendix.md' in docs_list %}
+          <button onclick="window.location.href='/docs/{{item.name}}~appendix'">Appendix</button>
+          {% endif %}
+          {% if docs_path+'/'+item.name+'~ACKNOWLEDGEMENTS.md' in docs_list %}
+          <button onclick="window.location.href='/docs/{{item.name}}~ACKNOWLEDGEMENTS'">Acknowledgements</button>
+          {% endif %}
+        insertbefore: BOF
+      loop: "{{project_list}}"
+      ignore_errors: yes
+
+    - name: ADD DOCUSAURUS MARKDOWN HEADER TO EACH README.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~README.md"
+        marker: "---"
+        block: |
+          id: {{item.name}}~README
+          title: {{item.name_with_namespace}}
+          {% if components[item.name] is defined %}
+          sidebar_label: {{components[item.name]}}
+          {% else %}
+          sidebar_label: {{item.name}}
+          {% endif %}
+        insertbefore: BOF
+      when: docs_path+'/'+item.name+'~README.md' in docs_list
+      loop: "{{project_list}}"
+      #ignore_errors: yes
+
+    - name: ADD DOCUSAURUS MARKDOWN HEADER TO EACH ACKNOWLEDGEMENTS.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~ACKNOWLEDGEMENTS.md"
+        marker: "---"
+        block: |
+          id: {{item.name}}~ACKNOWLEDGEMENTS
+          title: {{item.name_with_namespace}}
+          sidebar_label: Acknowledgements
+        insertbefore: BOF
+      when: docs_path+'/'+item.name+'~ACKNOWLEDGEMENTS.md' in docs_list
+      loop: "{{project_list}}"
+      #ignore_errors: yes
+
+    - name: ADD DOCUSAURUS MARKDOWN HEADER TO EACH INTRODUCTION.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~introduction.md"
+        marker: "---"
+        block: |
+          id: {{item.name}}~introduction
+          title: {{item.name_with_namespace}}
+          sidebar_label: Introduction
+        insertbefore: BOF
+      when: docs_path+'/'+item.name+'~introduction.md' in docs_list
+      loop: "{{project_list}}"
+      #ignore_errors: yes
+
+    - name: ADD DOCUSAURUS MARKDOWN HEADER TO EACH USAGE.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~usage.md"
+        marker: "---"
+        block: |
+          id: {{item.name}}~usage
+          title: {{item.name_with_namespace}}
+          sidebar_label: Usage
+        insertbefore: BOF
+      when: docs_path+'/'+item.name+'~usage.md' in docs_list
+      loop: "{{project_list}}"
+      #ignore_errors: yes
+
+    - name: ADD DOCUSAURUS MARKDOWN HEADER TO EACH APPENDIX.MD FILE
+      blockinfile:
+        dest: "{{docs_path}}/{{item.name}}~appendix.md"
+        marker: "---"
+        block: |
+          id: {{item.name}}~appendix
+          title: {{item.name_with_namespace}}
+          sidebar_label: Appendix
+        insertbefore: BOF
+      when: docs_path+'/'+item.name+'~appendix.md' in docs_list
+      loop: "{{project_list}}"
+      #ignore_errors: yes
+
+    - name: CREATE COMPONENT LIST PAGE WITH DESCRIPTIONS
+      template:
+        src: "{{ansible_path}}/roles/components/templates/components.md.j2"
+        dest: "{{docs_path}}/components.md"
+        mode: "{{default_mode}}"
+
+    - name: GET FEATURE LIST
+      find:
+        paths: "{{docs_path}}"
+        patterns: "*~feature.md"
+        recurse: yes
+        file_type: file
+      register: feature_list_result
+    - name: save into var
+      set_fact:
+        feature_list: "{{ feature_list_result.files }}"
+    - debug:
+        msg: "Feature List {{ feature_list }}"

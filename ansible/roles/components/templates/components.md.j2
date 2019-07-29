@@ -1,0 +1,29 @@
+---
+id: components
+title: igia Components
+sidebar_label: Component List
+---
+
+{% for component in project_list | sort(attribute='name') %}
+
+## {{ component.name }}
+
+{{ component.description }}
+
+{% if docs_path+'/'+component.name+'~README.md' in docs_list %}
+<button onclick="window.location.href='/docs/{{component.name}}~README'">README</button>&nbsp;
+{% endif %}
+{% if docs_path+'/'+component.name+'~introduction.md' in docs_list %}
+<button onclick="window.location.href='/docs/{{component.name}}~introduction'">Introduction</button>&nbsp;
+{% endif %}
+{% if docs_path+'/'+component.name+'~usage.md' in docs_list %}
+<button onclick="window.location.href='/docs/{{component.name}}~usage'">Usage</button>&nbsp;
+{% endif %}
+{% if docs_path+'/'+component.name+'~appendix.md' in docs_list %}
+<button onclick="window.location.href='/docs/{{component.name}}~appendix'">Appendix</button>
+{% endif %}
+{% if docs_path+'/'+component.name+'~ACKNOWLEDGEMENTS.md' in docs_list %}
+<button onclick="window.location.href='/docs/{{component.name}}~ACKNOWLEDGEMENTS'">Acknowledgements</button>&nbsp;
+{% endif %}
+
+{% endfor %}
