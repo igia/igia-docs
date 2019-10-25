@@ -29,7 +29,8 @@
       igia-datamask: "Data Masking",
       igia-fhir-api-example: "FHIR API Example",
       igia-fhir-autoconfigure: "README",
-      igia-smart-launch-app: "README"
+      igia-smart-launch-app: "README",
+      i2b2-cdi-ext: "CDI Quickstart"
     }
 
   tasks:

@@ -1,6 +1,16 @@
 {
     "docs": {
-      "igia": ["platformoverview", "gettingstarted", "architecture", "sampleapp", "igia-faq", "contributing", "licensing","HD", "hipaa-feature", "components", "releases", "known-issues" ],
+      "igia": ["platformoverview", "gettingstarted", "architecture", "sampleapp", "igia-faq", "contributing", "licensing","HD", "hipaa-feature", 
+        "components", 
+        {
+          "type" : "subcategory",
+          "label" : "Releases",
+          "ids" : [
+            "release-v031",
+            "release-v032"
+          ]
+        }
+        ,"known-issues" ],
       "Sample App": [ "cha2ds2-vasc-api~README" , "cha2ds2-vasc-application~README" ],
       "Microservice Platform": [
         "igia-apigateway~README" ,
@@ -42,7 +52,8 @@
         "igia-commons~README" ,
         "igia-docs~README" ,
         "igia-datamask~README"
-      ]
+      ],
+      "I2b2 & CDI" : [ "i2b2-cdi-overview", "i2b2-cdi-ext~README", "i2b2-cdi-usage" ]
     }
   }
   
