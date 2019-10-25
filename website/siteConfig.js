@@ -46,6 +46,12 @@ const siteConfig = {
   registrationUrl: registrationUrl,
   googleGroupsUrl: googleGroupsUrl,
 
+  // algolia docsearch api
+  algolia: {
+    apiKey: 'f8534c32f62ecd9bce873d56fb1f9619',
+    indexName: 'igia'
+  },
+
   // Used for publishing and more
   projectName: 'igia',
   organizationName: 'Partners and Persistent Systems',
