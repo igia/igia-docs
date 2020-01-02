@@ -3,6 +3,2278 @@ id: igia-docs~ACKNOWLEDGEMENTS
 title: igia-platform / igia-docs
 sidebar_label: Acknowledgements
 ---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
+id: igia-docs~ACKNOWLEDGEMENTS
+title: igia-platform / igia-docs
+sidebar_label: Acknowledgements
+---
 # Acknowledgements
 
 We appreciate all of the below projects for their community contributions.  We've made our best efforts to track down licenses and attributes.  If you feel we've missed you, please let us know.  
