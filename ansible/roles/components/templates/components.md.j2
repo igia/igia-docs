@@ -22,8 +22,8 @@ sidebar_label: Component List
 {% if docs_path+'/'+component.name+'~appendix.md' in docs_list %}
 <button onclick="window.location.href='/docs/{{component.name}}~appendix'">Appendix</button>
 {% endif %}
-{% if docs_path+'/'+component.name+'~ACKNOWLEDGEMENTS.md' in docs_list %}
-<button onclick="window.location.href='/docs/{{component.name}}~ACKNOWLEDGEMENTS'">Acknowledgements</button>&nbsp;
+{% if (component.name  !=  'igia-docs') and  (component.name != 'igia-orchestrator') %}
+<button onclick="window.location.href='https://github.com/igia/{{ component.name }}/blob/master/ACKNOWLEDGEMENTS.md'">Acknowledgements</button>&nbsp;
 {% endif %}
 
 {% endfor %}

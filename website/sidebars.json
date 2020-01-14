@@ -10,7 +10,7 @@
             "release-v032"
           ]
         }
-        ,"known-issues" ],
+        ,"known-issues" , "acknowledgements" ],
       "Sample App": [ "cha2ds2-vasc-api~README" , "cha2ds2-vasc-application~README" ],
       "Microservice Platform": [
         "igia-apigateway~README" ,

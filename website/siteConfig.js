@@ -20,7 +20,7 @@ const users = [
   },
   {
     caption: 'Persistent Systems',
-    image: '/img/Persistent_logo.png',
+    image: '/img/Persistent_Vertical_Color.png',
     width: '105px',
     height: '85px',
     infoLink: 'https://www.persistent.com',

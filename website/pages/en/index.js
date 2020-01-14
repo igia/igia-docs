@@ -227,7 +227,7 @@ class Descriptions extends React.Component {
                     </div>
                     <div className="blockElement alignCenter imageAlignTop twoByGridBlock">
                       <div className="blockImage">
-                        <a target="_blank" href="https://www.persistent.com"><img height="90" src="/img/Persistent_logo.png"/></a>
+                        <a target="_blank" href="https://www.persistent.com"><img height="90" src="/img/Persistent_Vertical_Color.png"/></a>
                       </div>
                     </div>
                   </div>
