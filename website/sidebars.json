@@ -7,7 +7,8 @@
           "label" : "Releases",
           "ids" : [
             "release-v031",
-            "release-v032"
+            "release-v032",
+            "release-v033"
           ]
         }
         ,"known-issues" , "acknowledgements" ],
