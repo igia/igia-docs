@@ -39,8 +39,8 @@ pipeline {
             when { expression { return params.COMMIT_CHANGES } }
             steps{
                 sh "[[ -z \$(git status -s 2> /dev/null) ]] || (git config user.name jenkins && \
-                    git config user.email info@igia.io && \
-                    git config push.default simple && git add . && \
+                    git config user.email igia@partnershealthcare.onmicrosoft.com && \
+                    git config push.default simple && git add --all . && \
                     git commit -m 'Auto update of component documentation' && \
                     git push origin HEAD:\${GIT_BRANCH})"
             }

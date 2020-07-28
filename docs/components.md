@@ -29,14 +29,6 @@ Vanilla Jhipster sample gateway app, to calculate stoke risk score through UI us
 <button onclick="window.location.href='https://github.com/igia/cha2ds2-vasc-application/blob/master/ACKNOWLEDGEMENTS.md'">Acknowledgements</button>&nbsp;
 
 
-## i2b2-cdi-ext
-
-Patient Identification plugin for i2b2
-
-<button onclick="window.location.href='/docs/i2b2-cdi-ext~README'">README</button>&nbsp;
-<button onclick="window.location.href='https://github.com/igia/i2b2-cdi-ext/blob/master/ACKNOWLEDGEMENTS.md'">Acknowledgements</button>&nbsp;
-
-
 ## igia-apigateway
 
 Vanilla JHipster API gateway application to act as the entrance to platform microservices. Provides HTTP routing and load balancing, quality of service, security and API documentation for all microservices.
